@@ -111,8 +111,9 @@ header .header-content .header-content-inner p {
 }
 
 .content-3 {
-	padding: 100px 50px 100px 50px;
-	text-align: left;
+	padding: 20px 0 40px;
+	text-align: center;
+	float:bottom;
 }
 
 .promo,
